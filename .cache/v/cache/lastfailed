@@ -1,0 +1,6 @@
+{
+  "section3/test_lesson6_step3.py::test_check_answer[898]": true,
+  "section3/test_lesson6_step3.py::test_check_answer[899]": true,
+  "section3/test_lesson6_step3.py::test_check_answer[905]": true,
+  "section3/test_xfail.py::test_succeed": true
+}
